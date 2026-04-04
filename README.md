@@ -1,6 +1,6 @@
 # **🧬 Digital Twin Simulation of Antiviral Clinical Trials**
 
-This repository contains code for a digital twin framework that simulates antiviral clinical trials using a combination of:
+This repository contains code for a digital twin framework that simulates antiviral (Nirmatrelvir/Ritonavir) clinical trials using a combination of:
 
 - Within-host viral dynamics models
 - PK/PD (pharmacokinetic/pharmacodynamic) modeling
