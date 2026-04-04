@@ -8,7 +8,7 @@ This repository contains code for a digital twin framework that simulates antivi
 - Trial-specific endpoint evaluation and statistical analysis
 
 
-## **🎯 Project Objective**
+# **🎯 Project Objective**
 
 The goal of this project is to:
 
